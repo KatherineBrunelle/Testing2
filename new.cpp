@@ -10,7 +10,7 @@ int main(int argc, char* argv){
 
   cout << "Look it's C++ again!";
 
-  cout << "*sigh* I missed you cpp *hugs*";
+  cout << "Hi this is a sample.";
 
   return 1;
 }
